@@ -22,4 +22,11 @@ h3 {
 .btn-info {
     background-color: rgb(156, 108, 19);
     border-color: rgb(156, 108, 19);
+    margin: 5px, 10px;
 }
+
+.lead {
+    font-size: 30px;
+    font-weight: 500;
+}
+
