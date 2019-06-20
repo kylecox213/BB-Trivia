@@ -1,2 +1,2 @@
 # Trivia-Game
-An Awesome trivia game!
+The Ultimate Breaking Bad Trivia Game!
