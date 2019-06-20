@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(30, 164, 241);
+    background-image: url("../images/Walter-White.jpg")
+}
+
+p {
+    color: black;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    color: black;
+}
+
+.btn-info {
+    background-color: rgb(156, 108, 19);
+    border-color: rgb(156, 108, 19);
+}
